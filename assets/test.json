@@ -1,0 +1,266 @@
+{
+  "status": "ok",
+  "totalResults": 70,
+  "articles": [
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": "Lucia Mutikani",
+      "title": "U.S. services sector growth accelerates despite supply constraints - Reuters",
+      "description": "A measure of U.S. services industry activity jumped to a record high in July, boosted by the shift in spending to services from goods, but businesses continued to pay higher prices for inputs because of supply constraints.",
+      "url": "https://www.reuters.com/world/us/us-private-payrolls-growth-slows-july-adp-2021-08-04/",
+      "urlToImage": "https://www.reuters.com/resizer/QMKyrsuEaxxp_T5xHFkT_zjoqJc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/75ADIZAQCVJGTDLAGRLACD4BVA.jpg",
+      "publishedAt": "2021-08-04T18:23:00Z",
+      "content": "A restaurant advertising jobs looks to attract workers in Oceanside, California, U.S., May 10, 2021. REUTERS/Mike Blake WASHINGTON, Aug 4 (Reuters) - A measure of U.S. services industry activity jump… [+6338 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Michael Wayland",
+      "title": "New York auto show canceled due to the spreading coronavirus delta variant - CNBC",
+      "description": "The show was scheduled to open to the public on Aug. 20 at the Jacob K. Javits Convention Center.",
+      "url": "https://www.cnbc.com/2021/08/04/new-york-auto-show-canceled-due-to-the-spreading-coronavirus-delta-variant.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/105857016-15555061743796t8a0546.jpg?v=1555938012",
+      "publishedAt": "2021-08-04T17:46:48Z",
+      "content": "Organizers of the New York International Auto Show on Wednesday canceled the event due to concerns about the coronavirus delta variant.\r\nThe show was scheduled to open to the public on Aug. 20. It ha… [+1585 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Chip Cutter, Sarah Nassauer, Bob Tita",
+      "title": "Covid-19 Vaccine Mandates Split Corporate America - The Wall Street Journal",
+      "description": "With Delta cases rising, Tyson and Walmart are insisting employees get the shot; others are sticking with persuasion and cash incentives",
+      "url": "https://www.wsj.com/articles/covid-19-vaccine-mandates-split-corporate-america-walmart-amazon-disney-delta-11628098239",
+      "urlToImage": "https://images.wsj.net/im-379906/social",
+      "publishedAt": "2021-08-04T17:32:00Z",
+      "content": "Business leaders broadly agree they need to get more workers vaccinated to keep the U.S. economy humming in the face of the fast-spreading Delta variant.\r\nBut theyre split over how best to do that. S… [+828 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Kotaku"
+      },
+      "author": "Ethan Gach",
+      "title": "Activision Blizzard’s Latest Investor Call Was An Especially Ghoulish Affair - Kotaku",
+      "description": "Activision Blizzard plugged Overwatch 2 and strong profits amid ongoing fallout",
+      "url": "https://kotaku.com/activision-blizzard-s-latest-investor-call-was-an-espec-1847422536",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/d2eccb86ff05bfb1b962bfdede28cbc0.jpg",
+      "publishedAt": "2021-08-04T17:30:00Z",
+      "content": "Every few months big game companies hold investor calls in which one set of rich people reassures another set of rich people that they are both still rich and will, over the coming months, likely get… [+6146 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Michael Wayland",
+      "title": "GM CEO Mary Barra confirms new electric truck and van for commercial customers - CNBC",
+      "description": "GM plans to add a full-size battery electric cargo van for Chevrolet as well as a medium-duty truck for service and utility vehicles.",
+      "url": "https://www.cnbc.com/2021/08/04/gm-confirms-new-electric-truck-and-van-for-commercial-customers.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106822892-1610457700339-BrightDrop_EV600_with_FedEx_Express_branding.jpg?v=1610463679",
+      "publishedAt": "2021-08-04T17:28:41Z",
+      "content": "General Motors on Wednesday confirmed that it will add two new electric vehicles to its commercial lineup in the coming years, outside of its recently launched BrightDrop business.\r\nGM CEO Mary Barra… [+1417 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Electrek"
+      },
+      "author": null,
+      "title": "Tesla teases future products using artificial intelligence not related to its electric vehicle fleet - Electrek",
+      "description": "In the invite to its AI Day, Tesla is teasing the use of artificial intelligence beyond its electric vehicle fleet. What do you think they’re talking about? As we have reported over the last week, Tesla is preparing for its upcoming AI Day on August 19. Over …",
+      "url": "https://electrek.co/2021/08/04/tesla-teases-future-products-using-artificial-intelligence/",
+      "urlToImage": "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2020/10/Tesla-robot-snake-charger.gif?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2021-08-04T17:10:00Z",
+      "content": "In the invite to its AI Day, Tesla is teasing the use of artificial intelligence beyond its electric vehicle fleet.\r\nWhat do you think they’re talking about?\r\nAs we have reported over the last week, … [+3282 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Lauren Thomas",
+      "title": "Some retailers used the pandemic to accelerate turnaround plans. Those stocks are getting rewarded. - CNBC",
+      "description": "Companies such as Ralph Lauren and Under Armour are reaping the benefits of changes made during the pandemic, and investors are noticing.",
+      "url": "https://www.cnbc.com/2021/08/04/under-armour-ralph-lauren-rewarded-by-investors-for-covid-turnarounds.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106208025-1572290841271gettyimages-1178637130.jpeg?v=1600782071",
+      "publishedAt": "2021-08-04T17:06:53Z",
+      "content": "Pedestrians walk past a Ralph Lauren Corp. store in the Central district of Hong Kong, China, on Sunday, Oct. 27, 2019.\r\nSome retailers have used the past year and a half to accelerate turnaround pla… [+7220 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Fox Business"
+      },
+      "author": "Julia Musto",
+      "title": "Spirit Airlines cancels hundreds of flights during its fourth day of travel woes - Fox Business",
+      "description": "Thousands of passengers remained stranded on Wednesday as Spirit Airlines entered its fourth of day of flight delays and cancellations.",
+      "url": "https://www.foxbusiness.com/lifestyle/spirit-airlines-cancels-hundreds-flights-fourth-day-travel-woes",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2021/08/0/0/Spirit-Line.gif?ve=1&tl=1",
+      "publishedAt": "2021-08-04T16:46:30Z",
+      "content": "Thousands of passengers remained stranded on Wednesday as Spirit Airlines entered its fourth day of flight delays and cancellations. \r\nAccording to flight tracker FlightAware, 367 of the budget airli… [+3375 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "WLWT Cincinnati"
+      },
+      "author": "WLWT Digital Staff",
+      "title": "LIST: Are masks required? Cincinnati stores revise COVID-19 policies - WLWT Cincinnati",
+      "description": "Do I need a mask or not? What several Cincinnati stores are saying.",
+      "url": "https://www.wlwt.com/article/list-are-masks-required-cincinnati-stores-revise-covid-19-policies/37220883",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/face-masks-1592333415.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+      "publishedAt": "2021-08-04T16:43:00Z",
+      "content": "CINCINNATI —Do I need a mask or not?\r\nThe U.S. Centers for Disease Control and Prevention changed course to recommend that even vaccinated people return to wearing masks indoors in parts of the U.S. … [+9167 chars]"
+    },
+    {
+      "source": {
+        "id": "politico",
+        "name": "Politico"
+      },
+      "author": "Sarah Owermohle, Adam Cancryn",
+      "title": "FDA targets early September for approving Pfizer's Covid-19 vaccine - POLITICO",
+      "description": "Officials have recently accelerated their work and now hope to finalize approval in a matter of weeks.",
+      "url": "https://www.politico.com/news/2021/08/04/fda-approval-pfizer-vaccine-coronavirus-502397",
+      "urlToImage": "https://static.politico.com/4b/84/b7adbb1e4a7985c79fa9eab33c6a/ap21215725931956.png",
+      "publishedAt": "2021-08-04T16:31:39Z",
+      "content": "They are saying that they are pulling out all the stops to get it done as quickly as possible, said one senior administration official, adding that the FDA has told administration officials it's work… [+2938 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Investor's Business Daily"
+      },
+      "author": "Investor's Business Daily",
+      "title": "BYSI Stock Catapults To Record High As Cancer Drug Tops Chemo - Investor's Business Daily",
+      "description": "BeyondSpring said Wednesday a regimen containing its cancer drug outperformed chemo in lung cancer patients, and BYSI stock catapulted.",
+      "url": "https://www.investors.com/news/technology/bysi-stock-catapults-to-record-high-as-cancer-drug-tops-chemo/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2017/11/Stock-PharmaVials-02-adobe.jpg",
+      "publishedAt": "2021-08-04T16:17:00Z",
+      "content": "BeyondSpring (BYSI) said Wednesday a regimen containing its cancer drug outperformed chemotherapy alone in lung cancer patients, and BYSI stock quadrupled premarket to a record high before retreating… [+2585 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Fox Business"
+      },
+      "author": "Julia Musto",
+      "title": "Frontier Airlines issue involving duct-taped passenger 'resolved,' flight attendant union says - Fox Business",
+      "description": "The Association of Flight Attendants-CWA President Sara Nelson said Tuesday night that an “issue” with Frontier Airlines' handling of a violent altercation between an unruly male passenger and multiple flight attendants had been “resolved.”",
+      "url": "https://www.foxbusiness.com/lifestyle/frontier-airlines-duct-taped-resolved",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2021/03/0/0/Frontier2.jpg?ve=1&tl=1",
+      "publishedAt": "2021-08-04T16:14:18Z",
+      "content": "An \"issue\" involving multiple Frontier Airlines' flight attendants and an unruly male passenger who was duct-taped to his seat has been \"resolved,\" the president of the Association of Flight Attendan… [+4623 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Times"
+      },
+      "author": "Edmund Lee",
+      "title": "New York Times 2021 Q2 Earnings: 8 Million Subscribers - The New York Times",
+      "description": "The company expects to end the year with about 8.5 million. In its quarterly results, it reported holding nearly $1 billion in cash.",
+      "url": "https://www.nytimes.com/2021/08/04/business/media/nyt-new-york-times-earnings-q2-2021.html",
+      "urlToImage": "https://static01.nyt.com/images/2021/08/04/business/04NYT/04NYT-facebookJumbo.jpg",
+      "publishedAt": "2021-08-04T15:51:30Z",
+      "content": "The company is intensely focused on increasing subscriptions and has been experimenting with how to convert its 100 million registered readers into paying readers. (Its free to register.) The Times i… [+1784 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Bitcoin Magazine"
+      },
+      "author": "Alex McShane",
+      "title": "Bloomberg Intelligence Report: Bitcoin Price 'On Track' for $100,000 - Bitcoin Magazine",
+      "description": "A new report from Bloomberg Intelligence suggests the Bitcoin price may soon approach $100,000 should historical trends continue.",
+      "url": "https://bitcoinmagazine.com/business/bloomberg-intelligence-report-bullish-on-bitcoin",
+      "urlToImage": "https://bitcoinmagazine.com/.image/t_share/MTgxOTYwNTQzOTI4NTkxNDkx/img_5425.jpg",
+      "publishedAt": "2021-08-04T15:51:09Z",
+      "content": "This month’s “Bloomberg Crypto Outlook” reports a bullish future trajectory for Bitcoin, stating “we see performance parallels that could get the benchmark crypto back on track toward $100,000.”\r\nThe… [+2864 chars]"
+    },
+    {
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "Kelly Tyko",
+      "title": "Target joins Walmart in paying for college for employees; free books also included - USA TODAY",
+      "description": "Target announced Wednesday it would offer its workers a free college education. The announcement comes a week after a similar one from Walmart.",
+      "url": "https://www.usatoday.com/story/money/retail/2021/08/04/target-college-tuition-program-employees-walmart-paying-for-college-education/5481754001/",
+      "urlToImage": "https://www.gannett-cdn.com/-mm-/54b6aa4b7705ba4b5c39ddd3b7b0ff8e77542e32/c=0-56-475-323/local/-/media/2021/07/30/Bloomington/2380c9a9898daade8b5225ab79734598.jpg?width=1600&height=800&fit=crop",
+      "publishedAt": "2021-08-04T15:48:52Z",
+      "content": "Walmart says it's committed to investing nearly $1 billion over the next five years in career-driven training and development.\r\nVideo Elephant\r\nTarget will offer its 340,000 U.S.-based part-time and … [+2986 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Lydia Moynihan",
+      "title": "Robinhood shares halted after massive spike, looming short squeeze - New York Post ",
+      "description": "Robinhood’s surging shares were halted on Wednesday after a massive spike, with some investors speculating that its dizzying rally is being driven by fears of a short squeeze.",
+      "url": "https://nypost.com/2021/08/04/robinhood-shares-halted-after-spike-looming-short-squeeze/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2021/08/robinhood-ipo-squeeze-01.jpg?quality=90&strip=all&w=1200",
+      "publishedAt": "2021-08-04T15:38:00Z",
+      "content": "Robinhood’s surging shares were halted on Wednesday after a massive spike, with some investors speculating that its dizzying rally is being driven by fears of a short squeeze.\r\nMoments after the open… [+1694 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Barron's"
+      },
+      "author": "Jack Denton",
+      "title": "Novavax Stock Jumps After Covid Vaccine Contract Approved in Europe - Barron's",
+      "description": "Novavax's vaccine hasn't been approved yet, but that hasn't stopped the European Commission from signing a contract for at least 100 million doses.",
+      "url": "https://www.barrons.com/articles/novavax-stock-covid-vaccine-51628083838",
+      "urlToImage": "https://images.barrons.com/im-354069/social",
+      "publishedAt": "2021-08-04T15:33:00Z",
+      "content": "Novavax\r\n could supply 200 million doses of its Covid-19 vaccine candidate to the European Union once the shot has been approved, paving the way for more drug companies providing vaccines in the long… [+3416 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Salvador Rodriguez",
+      "title": "Instacart hires former Facebook exec Carolyn Everson weeks after poaching Fidji Simo as CEO - CNBC",
+      "description": "Instacart is the largest of the remaining privately held delivery companies, valued at $39 billion in March and widely expected to go public.",
+      "url": "https://www.cnbc.com/2021/08/04/instacart-hires-carolyn-everson-former-facebook-exec.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106255753-1574253060684gettyimages-857986862.jpeg?v=1623257932",
+      "publishedAt": "2021-08-04T15:00:01Z",
+      "content": "Grocery delivery app Instacart on Wednesday announced it has nabbed yet another former Facebook executive: Longtime Facebook ads chief Carolyn Everson, who left the company in June. Everson is moving… [+1836 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Las Vegas Review-Journal"
+      },
+      "author": "Eli Segall",
+      "title": "Casino landlord Vici buys MGM Resorts spinoff in $17B deal - Las Vegas Review-Journal",
+      "description": "<p>A major casino landlord is buying another in a $17 billion-plus deal, putting the real estate ownership of many of Las Vegas’ biggest resorts under one company.</p>",
+      "url": "https://www.reviewjournal.com/post/2413149",
+      "urlToImage": "https://www.reviewjournal.com/wp-content/uploads/2021/08/15446321_web1_MGM.jpeg",
+      "publishedAt": "2021-08-04T14:37:43Z",
+      "content": "A major casino landlord is buying another in a $17 billion-plus deal, putting the real estate ownership of many of Las Vegas’ biggest resorts under one company.\r\nCaesars Entertainment-spinoff Vici Pr… [+839 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Investor's Business Daily"
+      },
+      "author": "Investor's Business Daily",
+      "title": "Dow Jones Today, Stocks Slump As July Hiring Data Disappoints; FDA Timeline Lifts BioNTech; Paycom, DaVita Eye Breakouts - Investor's Business Daily",
+      "description": "Paycom and DaVita seized early breakouts, as the Dow Jones today led stocks lower after a weak July hiring report.",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-today-futures-dip-ahead-of-july-hiring-data-fda-timeline-lifts-biontech-paycom-davita-eye-breakouts/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2020/11/Stock-StockExchangeGirl-08-adobe.jpg",
+      "publishedAt": "2021-08-04T14:20:00Z",
+      "content": "Stocks traded lower Wednesday after disappointing July hiring data and as concerns rose regarding coronavirus infections and impact. Vaccine maker BioNTech rallied on FDA news. Advanced Micro Devices… [+9552 chars]"
+    }
+  ]
+}
